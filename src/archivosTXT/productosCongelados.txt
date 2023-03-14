@@ -1,0 +1,4 @@
+[PC001, Carne, 5, LOTE001, 6/5/2024, -10/°F, por_aire]
+[PC002, Panaderia, 4, LOTE001, 6/2/Año, -4/°F, criogénico]
+[PC003, Carne, 3, LOTE03, 2/2/2025, -4/°F, por_aire]
+[PC004, Lacteos, 4, LOTE003_MODIFICADO, 3/4/2024, 2/°C, por_aire]

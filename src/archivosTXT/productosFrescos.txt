@@ -1,0 +1,5 @@
+[PF004, Marisco, 2, modificado, 3/4/2024, -3/°C, Carpa]
+[PF001, Marisco, 4, MODIFICADO, 6/6/2024, -10/°F, Atun]
+[PF005, Lacteos, 5, MODIFICADO, 3/3/Año, -3/°F, Queso]
+[PF003, Fruta, 5, MODIFICADO, 3/3/2024, 2/°C, Manzana]
+[PR001, Carne, 14, LOTE001, 5/5/2025, -1/°C, Puerco]

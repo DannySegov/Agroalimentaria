@@ -1,0 +1,2 @@
+[PR001, Carne, 5, LOTE001, 3/4/2025, -2/°F, Fisico]
+[PR002, Marisco, 5, LOTE001, 10/2/2047, -5/°F, Biologicos]
